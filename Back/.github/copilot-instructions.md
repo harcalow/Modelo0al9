@@ -1,0 +1,3 @@
+- [x] Proyecto Flask básico creado con app.py y requirements.txt.
+- [ ] Instalar dependencias con `pip install -r requirements.txt`.
+- [ ] Ejecutar con `python app.py`.
